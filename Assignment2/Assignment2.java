@@ -13,10 +13,7 @@ import java.util.Scanner;
  * @author abdel
  */
 public class Assignment2 {
-
-    /**
-     * @param args the command line arguments
-     */
+    
     public static void main(String[] args) throws FileNotFoundException {
         
         CarLoan carLoan = new CarLoan(25000.00, 4.25, 72, "IRQ3458977");
