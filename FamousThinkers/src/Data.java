@@ -7,7 +7,7 @@ import java.util.ArrayList;
 
 public class Data {
     
-    private static final String path = "C:\\Users\\abdel\\Desktop\\Penn State\\2022 Spring\\CMPSC221\\FamousThinkers\\data.csv";
+    private static final String path = "D:\\Abdel Abdelgawad\\Documents\\Programming\\GitHub\\CMPSC221\\FamousThinkers\\data.csv";
     
     public static ArrayList<Thinker> getData() {
         String line = "";
